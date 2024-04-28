@@ -1,0 +1,18 @@
+.app-header {
+    height: 60px;
+    line-height: 60px;
+    border-bottom: thin lightgrey solid;
+}
+
+.app-header .app-header--title {
+    font-size: 22px;
+    padding-left: 5px;
+}
+
+.center-aligned-group-header .ag-header-group-cell-label {
+    justify-content: center;
+}
+
+.right-aligned-group-header .ag-header-group-cell-label {
+    justify-content: right;
+}
