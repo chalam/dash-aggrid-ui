@@ -1,0 +1,1 @@
+Create a dash-ui with most used configs in one place
